@@ -3,4 +3,4 @@
     jcr:primaryType="cq:ClientLibraryFolder"
     allowProxy="{Boolean}true"
     categories="[logincomponent-clientlibs]"
-    dependencies="[wknd-bootstrap]"/>
+    dependencies="[wknd-bootstrap,jquery]"/>

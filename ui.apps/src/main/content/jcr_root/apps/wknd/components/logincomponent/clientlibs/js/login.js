@@ -1,1 +1,5 @@
-console.log("Login Component");
+$(document).ready(function(){
+  $('.person-login-icon').click(function(){
+    $('#loginModal').modal('show');
+  });
+});

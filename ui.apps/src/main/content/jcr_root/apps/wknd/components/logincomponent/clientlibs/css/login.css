@@ -11,3 +11,32 @@
     top: 2px;
     right: 220px;
 }
+
+.login-icon {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+.modal-content {
+  border-radius: 0;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-backdrop.show {
+    display: none; /* Hide the backdrop completely */
+}
+
+.modal-title {
+	color: #007bff;
+    font-weight: bold;
+}
+
+.form-group {
+    color: black;
+}
+
