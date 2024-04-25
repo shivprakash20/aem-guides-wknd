@@ -1,0 +1,6 @@
+{
+  "scripts":[
+    "create service user wknd-system-user",
+    "add wknd-system-user to group administrators"
+  ]
+}
